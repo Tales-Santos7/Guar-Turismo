@@ -33,7 +33,7 @@ function App() {
               className="md:hidden text-amber-600"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
             >
-              {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+              {isMenuOpen ? <X className="h-9 w-9" /> : <Menu className="h-9 w-9" />}
             </button>
 
             {/* Desktop Navigation */}
