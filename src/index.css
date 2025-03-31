@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-center a {
+    color: #dd9908;
+    font-weight: bold;
+}
