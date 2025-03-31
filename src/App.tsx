@@ -297,7 +297,7 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="text-center">
             <p>&copy; 2025 Guará Turismo. Todos os direitos reservados.</p>
-            <p>Desenvolvido por <a href="https://talessantos-mu.vercel.app/">Tales Santos</a></p>
+            <p>Desenvolvido por <a target='_blank' href="https://talessantos-mu.vercel.app/">Tales Santos</a></p>
           </div>
         </div>
       </footer>
