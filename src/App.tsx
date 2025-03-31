@@ -25,7 +25,7 @@ function App() {
             <h1 className={`text-2xl font-bold transition-colors duration-300 ${
               isScrolled ? 'text-amber-800' : 'text-white'
             }`}>
-              Guará Turismo
+             <a href="#">Guará Turismo</a>
             </h1>
 
             {/* Mobile Menu Button */}
@@ -274,7 +274,7 @@ function App() {
               </div>
               <div className="flex items-center text-stone-600">
                 <Mail className="w-5 h-5 mr-3" />
-                <span>contato@exploracaatinga.com.br</span>
+                <span>contato@guaraturismo.com.br</span>
               </div>
               <div className="flex space-x-4 mt-6">
                 <a href="#" className="text-stone-600 hover:text-amber-600">
