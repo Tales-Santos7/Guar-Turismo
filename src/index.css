@@ -6,3 +6,8 @@
     color: #dd9908;
     font-weight: bold;
 }
+
+.mt-4 {
+    width: 50%;
+    margin-left: auto;
+}

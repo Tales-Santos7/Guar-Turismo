@@ -55,8 +55,8 @@ function App() {
           </div>
 
           {/* Mobile Navigation */}
-          {isMenuOpen && (
-            <nav className="md:hidden mt-4 pb-4">
+          {isMenuOpen && ( 
+            <nav className="md:hidden mt-4 pb-4 bg-white/80 hover:bg-white/80 text-white px-8 py-3 rounded-lg transition-colors text-lg font-medium backdrop-blur-sm">
               {['Início', 'Destinos', 'Pacotes', 'Contato'].map((item) => (
                 <a
                   key={item}
